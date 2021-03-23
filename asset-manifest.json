@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-coins-chart/static/css/main.2c9b1d4e.chunk.css",
+    "main.js": "/react-coins-chart/static/js/main.6f639320.chunk.js",
+    "main.js.map": "/react-coins-chart/static/js/main.6f639320.chunk.js.map",
+    "runtime-main.js": "/react-coins-chart/static/js/runtime-main.e9e4fef9.js",
+    "runtime-main.js.map": "/react-coins-chart/static/js/runtime-main.e9e4fef9.js.map",
+    "static/js/2.e711435f.chunk.js": "/react-coins-chart/static/js/2.e711435f.chunk.js",
+    "static/js/2.e711435f.chunk.js.map": "/react-coins-chart/static/js/2.e711435f.chunk.js.map",
+    "static/js/3.214f3544.chunk.js": "/react-coins-chart/static/js/3.214f3544.chunk.js",
+    "static/js/3.214f3544.chunk.js.map": "/react-coins-chart/static/js/3.214f3544.chunk.js.map",
+    "index.html": "/react-coins-chart/index.html",
+    "static/css/main.2c9b1d4e.chunk.css.map": "/react-coins-chart/static/css/main.2c9b1d4e.chunk.css.map",
+    "static/js/2.e711435f.chunk.js.LICENSE.txt": "/react-coins-chart/static/js/2.e711435f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9e4fef9.js",
+    "static/js/2.e711435f.chunk.js",
+    "static/css/main.2c9b1d4e.chunk.css",
+    "static/js/main.6f639320.chunk.js"
+  ]
+}
